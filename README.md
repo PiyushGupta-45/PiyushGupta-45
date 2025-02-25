@@ -4,11 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;JavaScript+Enthusiast;MERN+Stack+Explorer;Always%20Learning&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@018d36c1-341c-45d8-944e-95ce4b6bce0b"><img src="https://wakatime.com/badge/user/018d36c1-341c-45d8-944e-95ce4b6bce0b.svg" alt="Total time coded since Jan 23 2024" /></a>
-  <img src="https://komarev.com/ghpvc/?username=PiyushGupta-45&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
-</p>
-
 <br>
 
 ## 🚀 About Me

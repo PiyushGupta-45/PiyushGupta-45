@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Piyush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aks-20&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img alt="Piyush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PiyushGupta-45&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Piyush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks-20&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />

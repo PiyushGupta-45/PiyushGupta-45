@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@018d36c1-341c-45d8-944e-95ce4b6bce0b"><img src="https://wakatime.com/badge/user/018d36c1-341c-45d8-944e-95ce4b6bce0b.svg" alt="Total time coded since Jan 23 2024" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PiyushGupta-45&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
 </p>
 
 <br>
@@ -56,18 +56,18 @@
     <img alt="Piyush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PiyushGupta-45&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Piyush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks-20&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img alt="Piyush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushGupta-45&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aks-20&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushGupta-45&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Piyush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aks-20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img alt="Piyush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushGupta-45&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </a>
 </p>
 
@@ -96,14 +96,14 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aks-20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=PiyushGupta-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Aks-20/count.svg?" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/PiyushGupta-45/count.svg?" alt="Visitor Count" />
 </p>
 
 <p align="center">

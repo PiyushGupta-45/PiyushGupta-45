@@ -10,7 +10,6 @@
 
 - 🔭 I'm currently working on improving my skills and building meaningful projects
 - 🌱 I'm learning the **MERN** stack (MongoDB, Express.js, React, Node.js)
-- 💬 Ask me about **Node.js**, **JavaScript**, and **Java**
 - ⚡ I love **E-Sports** and **Coffee**
 - 🎯 Goal: Become a proficient Full Stack Developer
 - 📫 How to reach me: pgupta3883@gmail.com

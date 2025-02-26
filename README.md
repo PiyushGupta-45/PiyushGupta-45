@@ -71,17 +71,11 @@
 ## 📱 Connect with me
 
 <p align="center">
-  <a href="mailto:Piyushgupta0043@gmail.com">
+  <a href="mailto:pgupta3883@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/Piyush-gupta-41b394253/">
+  <a href="https://www.linkedin.com/in/piyush-gupta321/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/PiyushGupta_567">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://stackoverflow.com/users/26954045/Piyush-gupta">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </p>
 
